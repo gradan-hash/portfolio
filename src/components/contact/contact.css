@@ -90,7 +90,7 @@ form{
   flex-wrap: wrap;
 }
 input{
-  width: 35px;
+  width: auto;
   height: 40px;
   margin: 10px;
   margin-left: 0;

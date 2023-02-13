@@ -1,15 +1,15 @@
 import React from "react";
 import "./about.css";
-import Me from "../../img/corne.jpeg";
+import code from "../../img/code.jpg";
 import award from "../../img/award.jpg";
 
 const About = () => {
   return (
     <div className="a">
       <div className="a-left">
-        <div className="a-card-bg"></div>
+      
         <div className="a-card">
-          <img src={Me} alt="" className="a-img" />
+          <img src={code} alt="" className="a-img" />
         </div>
       </div>
       <div className="a-right">

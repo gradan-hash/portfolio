@@ -69,20 +69,18 @@
   .a {
     flex-direction: column;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 30px;
+    height: 40vh;
   }
-  .a-left{
-    width: 100px;
 
-  }
-  .a-card{
-    height: 20vh;
-  }
-  .a-card-bg{
+  .a-card {
     display: none;
   }
-  .a-right{
+
+  .a-card-bg {
+    display: none;
+  }
+  .a-right {
     padding: 20px;
   }
-
 }
