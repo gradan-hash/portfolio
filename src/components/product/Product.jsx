@@ -8,7 +8,7 @@ const Product = ({ img, link, name }) => {
         <div className="p-circle"></div>
         <div className="p-circle"></div>
       </div>
-      <h4 className="name">projectname:{name}</h4>
+      <h4 className="name">name:{name}</h4>
       <a href={link} target="_blank" rel="noreferrer">
         <img src={img} alt="" className="p-img" />
         <h4 className="name">projectname:{name}</h4>
