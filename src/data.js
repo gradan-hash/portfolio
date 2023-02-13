@@ -1,4 +1,5 @@
 import gatangu from "./img/gatangu.png";
+import wakawaka from "./img/wakawaka.png";
 
 export const products = [
   {
@@ -9,9 +10,9 @@ export const products = [
   },
   {
     id: 2,
-    img: "https://images.pexels.com/photos/1212053/pexels-photo-1212053.jpeg?auto=compress&cs=tinysrgb&w=600",
+    img: wakawaka,
     link: "",
-    name: "coming soon",
+    name: "real-estate",
   },
   {
     id: 3,
