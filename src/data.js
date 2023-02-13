@@ -1,8 +1,11 @@
+import gatangu from "./img/gatangu.png";
+
 export const products = [
   {
     id: 1,
-    img: "https://images.pexels.com/photos/4049876/pexels-photo-4049876.jpeg?auto=compress&cs=tinysrgb&w=600",
-    link: "http://cornelius.com",
+    img: gatangu,
+    link: "https://gatanguenterprises.co.ke/index.html",
+    name: "gatangu-ecommerce",
   },
   {
     id: 2,
