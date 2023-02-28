@@ -1,5 +1,6 @@
 import gatangu from "./img/gatangu.png";
 import wakawaka from "./img/wakawaka.png";
+import corelisstore from "./img/corelisstore.png";
 
 export const products = [
   {
@@ -16,9 +17,9 @@ export const products = [
   },
   {
     id: 3,
-    img: "https://images.pexels.com/photos/5632379/pexels-photo-5632379.jpeg?auto=compress&cs=tinysrgb&w=600",
+    img: corelisstore,
     link: "",
-    name: "coming soon",
+    name: "selling clothes{cornelistore} ",
   },
   {
     id: 4,
