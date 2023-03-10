@@ -1,6 +1,9 @@
 import gatangu from "./img/gatangu.png";
 import wakawaka from "./img/wakawaka.png";
 import corelisstore from "./img/corelisstore.png";
+import moranga from "./img/moranga.png";
+import honey from "./img/honey.png";
+import social from "./img/social.png"
 
 export const products = [
   {
@@ -19,24 +22,24 @@ export const products = [
     id: 3,
     img: corelisstore,
     link: "",
-    name: "selling clothes{cornelistore} ",
+    name: "selling clothes{(!hosted)} ",
   },
   {
     id: 4,
-    img: "https://images.pexels.com/photos/1481105/pexels-photo-1481105.jpeg?auto=compress&cs=tinysrgb&w=600",
+    img: moranga,
     link: "",
-    name: "coming soon",
+    name: "milk {!hosted}",
   },
   {
     id: 5,
-    img: "https://images.pexels.com/photos/7007172/pexels-photo-7007172.jpeg?auto=compress&cs=tinysrgb&w=600",
-    link: "",
-    name: "coming soon",
+    img: honey,
+    link: "https://thybee.netlify.app",
+    name: "Bee products ",
   },
   {
     id: 6,
-    img: "https://images.pexels.com/photos/3034343/pexels-photo-3034343.jpeg?auto=compress&cs=tinysrgb&w=600",
+    img: social,
     link: "",
-    name: "coming soon",
+    name: "Social media App {!hosted}",
   },
 ];
